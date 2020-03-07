@@ -1,0 +1,36 @@
+Duties:
+########################
+Runchao Mao:
+Runchao is in charge of redesigning the graph part of this project, and by using Flyod Algorithm he could achieved making the user could find the shortest path by distance or by stops, or a fastest route between any two tranist stations in a city's map. 
+
+Runchao is in charge of writing the coding part of Graph, StationService, Edge and Node class in edu.toronto.group0162
+
+########################
+
+Yiming Mo:
+
+Yiming is designed the basic structure with Runzhang Wang and Chen Liang. He also took the reponsibility of writing all code relating to GUI in the shorter and less complicated version of our code. He is the one suggested us using database system and taught Chen Liang and Runzhang Wang some basic PSQL query commands from scratch. He also helped all group members installed PSQL and taught other students how to implement with PSQL databases. He realized we were approching due date and abandoned the complex version of our code and started to write a shorter and nice version which could implement GUI perfectly well. 
+
+Yiming wrote the coding part and javadoc in BaseDao, CardDao, EdgeDao, GeneralTripDao, NodeDao, StationDao, TripSegmentDao, UserDao, Card, Edge, ENode, GeneralTrip, Node, Station, TripSegment, User, VNode, ArchiveService, CardService, FindPathService,GeneralTripService, StationService, TimeService, TripSegmentService, UserService, AdminFrame, CardMgtFrame, CityFrame, LoginDialog, MapFrame, PersonalInfoFrame, RouteFrame, SignUpDialog, TripFrame, UserFrame, Window classes in the shorter version of our code.
+
+########################
+
+Runzhang Wang:
+
+Runzhang rewrote a version of phase two without using Chen Liang, adding cool new features like how an admin users delete expired transit passes, how to get a monthly daily report, how to get an yearly daily report etc. He wrote TimeManager which could deal with all matters relating to time with Chen Liang. He also designed the algorithm for the new graph system with Runchao Mao. He added javadocs and line comments in our project. 
+
+Runzhang's major work is in the most primitive verison of our Phase Two, which does not use database at all. He did a lot of things like writing Time Manager and Daily Report Service. He also did some test in the earliest version of phase two. 
+Runzhang Wang wrote some methods in UserService, UserMoneyManagerService, and PastTripService. He also wrote javadocs and line comments for this project. 
+
+######################## 
+Chen Liang: 
+
+Chen is in charge of rewriting the code phase one, adding new features into this program and translating newly designed code into database.
+ 
+Chen added Transfer Strategy and NonTransferStrategy as two new charging straties. He also deviced three pricing strategies to calculate fare of a trip accoding to distance or stops or just a fixed fee. He rewrote the general trip class in phase one and chose to use trip segments as a smaller level of trips that could be saved in a complete trip. He added the feature where a user could check the most frequent trip he/she has travelled. He also added the feature that a user could enjoy free rides on his/her birthday. He deviced the membership system where a user could enjoy a certain discount according their membership status. He made a child pass system where children could enjoy certain discount. Also, he added the feature that a card could be automatically reloaded once balance becomes negative. He also break long classes like card, cardholder, daily report and adminuser into different managers and services where they could take reponsibilities relating to money/ services. He also made it possible to add as many transportation methods as possible only if we know their charging time, charing strategy, pricing strategy and each city's pricing data like cap price or cost per kilometer etc. He also deviced all 30 tables in postgresql.sql file.
+
+Chen wrote the coding part of  enrichedBackendsWithNewFeatures, which includes AdminUserDao, BaseDao, CardDao, Card Dao, Card Money Manager Dao, Children Discount Dao, DailyReportDao, DailyReportMoneyManagerDao, DailyReportStoredByTimeDao, GeneralTripDao, OneWayTripFrequecyDao, PastTripManagerDao, SystemInfoDao, TotalFareByCityDao, TransitPassDao, SystemInfoDao, TotalFareByCityDao, TransitPassDao, TransitPassExpirationDao, TripFrequencyBetweenStationsDao, TripSegmentDao, UserDao, UserMoneyManagerDao, AdminUser, Card, ChildrenDiscount, DailyReport, Edge, GeneralTrip, Station, TransitPass, TripSegment, User, InvalidStrategyException, PricingStrategyFactory, CapStrategy, DistanceStrategy, FixedPriceStrategy, NonTransferStrategy, StopStrategy, TransferStrategy, Logger Formatter, UserLogger, CardMoneyManager, DailyReportMoneyManager, PastTripManager, TimeManager, TripInfoNotifier, UserMoneyManager, AdminUserService, CardMoneyManagerService, Card Service, ChildrenDiscountService, PastTripManagerService, TransitPassService, UserMoneyManagerService, UserService, DailyReportStoredByTime, OneWayTripFrequency, TotalFareByCity, TransitPassExpirationDate, TripFrequencyBetweenStations, and System Test in enriched backends with new features.
+
+
+
+

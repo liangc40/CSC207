@@ -1,0 +1,26 @@
+FINEST: Card holder: Hua Li is registered at 2018-06-30 6:00:00 EDT
+FINEST: Card holder: Hua Li is registered at 2018-06-30 6:00:00 EDT
+INFO: Added card 000001 at 2018-06-30 6:00:01 EDT
+INFO: Added card 000003 at 2018-06-30 6:00:02 EDT
+INFO: Added card 000005 at 2018-06-30 6:00:03 EDT
+FINER: Removed card 000005 at 2018-06-30 6:00:04 EDT
+INFO: The number of recent trips is less than three.
+INFO: Entered McGill stop at 2018-06-30 11:00:30 EDT
+SEVERE: Hua Li used a different card 000003 to tap out at Berri-UQAM at 2018-06-30 13:05:00 EDT
+INFO: Entered Berri-UQAM stop at 2018-06-30 14:00:30 EDT
+INFO: Exited McGill stop at 2018-06-30 14:20:00 EDT
+INFO: Entered Berri-UQAM stop at 2018-06-30 15:05:00 EDT
+SEVERE: Hua Li used a different card 000003 to tap out at Place-d'Armes at 2018-06-30 18:00:00 EDT
+FINE: Loaded 20 dollars into my account at 2018-07-01 11:30:30 EDT
+FINE: Loaded 50 dollars into my account at 2018-07-01 11:31:55 EDT
+INFO: Entered Berri-UQAM stop at 2018-07-01 11:40:00 EDT
+INFO: Entered Berri-UQAM stop at 2018-07-01 11:45:00 EDT
+INFO: Exited Place-d'Armes stop at 2018-07-01 11:50:00 EDT
+INFO: Card holder: Ana Martinez changed name to Ana Martinez
+INFO: Viewed recent three trips at 2018-07-01 12:00:00 EDT:
+Trip 1 is: Card 000001 entres Berri-UQAM station at 2018-06-30 15:05:00 EDT
+Trip 2 is: Card 000001 entres Berri-UQAM station at 2018-07-01 11:40:00 EDT
+Trip 3 is: Card 000003 entres Berri-UQAM station at 2018-07-01 11:45:00 EDT
+, then exits Place-d'Armes station at 2018-07-01 11:50:00 EDT
+
+INFO: Tracked average monthly cost at 2018-07-01 12:01:00 EDT: 1.4

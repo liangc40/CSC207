@@ -1,0 +1,12 @@
+Subway Yellow|Vaughan Metropolitan Centre|Highway 407|Pioneer Village|York University|Finch West|Downsview Park|Sheppard West|Wilson|Yorkdale|Lawrence West|Glencairn|Eglinton West|St Clair West|Dupont|Spadina|St George|Museum|Queen's Park|St Patrick|Osgoode|St Andrew|Union|King|Queen|Dundas|College|Wellesley|Bloor-Yonge|Rosedale|Summerhill|St Clair|Davisville|Eglinton|Lawrence|York Mills|Sheppard-Yonge|North York Centre|Finch
+
+Subway Green|Kipling|Islington|Royal York|Old Mill|Jane|Runnymede|High Park|Keele|Dundas West|Lansdowne|Dufferin|Ossington|Christie|Bathurst|Spadina|St George|Bay|Bloor-Yonge|Sherbourne|Castle Frank|Broadview|Chester|Pape|Donlands|Greenwood|Coxwell|Woodbine|Main Street|Victoria Park|Warden|Kennedy
+
+Bus Route 505|Broadview|Danforth Ave|Langley Ave-Bridgepoint Health Ctr|Gerrard St East|Parliament St|Sherbourne|Dundas|St Patrick|Spadina|Dufferin|Bloor St West|Dundas West
+
+Bus Route 510|Union|Harbourfront Centre|Front St West North Side|King St West North Side|Richmond St West|Queen St West North Side|Dundas West|College St North Side|Harbord St North Side|Sussex Ave|Spadina
+
+
+Bus Route 506|High Park|Parkside Dr|Roncesvalles Ave|Dundas West|Dufferin|Ossington|Bathurst|Spanida|Queens's Park|Bay|College|Jarvis|Sherbourne|Broadview|Carlaw|Jones|Greenwood|Coxwell|Woodbine|Main
+
+Bus Route 509|Union|Queens Quary|Spadina|Bathurst|Fort York|Exhibition Place

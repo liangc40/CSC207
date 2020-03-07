@@ -1,0 +1,31 @@
+Montréal|creates admin user|2018-06-30 0:00:00 EDT|
+Montréal|sets cost|Subway|0.3|Bus|0.15
+Montréal|sets revenue|Subway|0.4|Bus|2
+Montréal|sets cap|6
+Hua Li|creates account|huali@gmail.com|2018-06-30 6:00:00 EDT|
+huali@gmail.com|adds card|000001|2018-06-30 6:00:01 EDT|
+huali@gmail.com|adds card|000003|2018-06-30 6:00:02 EDT|
+huali@gmail.com|adds card|000005|2018-06-30 6:00:03 EDT|
+huali@gmail.com|removes card|000005|2018-06-30 6:00:04 EDT|
+huali@gmail.com|views recent three trips|2018-06-30 6:02:00 EDT|
+000001|entres|McGill|Subway|2018-06-30 11:00:30 EDT|
+000003|exits|Berri-UQAM|Subway|2018-06-30 13:05:00 EDT|
+000003|entres|Berri-UQAM|Bus|Bus Route 1|2018-06-30 14:00:30 EDT|
+000003|exits|McGill|Bus|2018-06-30 14:20:00 EDT|illegal exit|
+000001|entres|Berri-UQAM|Subway|2018-06-30 15:05:00 EDT|
+000003|exits|Place-d'Armes|Subway|2018-06-30 18:00:00 EDT|
+Montréal|generates daily report|
+huali@gmail.com|loads money|000001|20|2018-07-01 11:30:30 EDT|
+huali@gmail.com|suspends stolen card|000010|000003|2018-07-01 11:31:50 EDT|
+huali@gmail.com|suspends stolen card|000001|000009|2018-07-01 11:31:51 EDT|
+huali@gmail.com|suspends stolen card|000001|000003|2018-07-01 11:31:52 EDT|
+huali@gmail.com|suspends stolen card|000001|000002|2018-07-01 11:31:53 EDT|
+huali@gmail.com|loads money|000001|50|2018-07-01 11:31:55 EDT|
+000001|entres|Berri-UQAM|Subway|2018-07-01 11:40:00 EDT|
+000003|entres|Berri-UQAM|Subway|2018-07-01 11:45:00 EDT|illegal entry
+000003|exits|Place-d'Armes|Subway|2018-07-01 11:50:00 EDT|power outage
+huali@gmail.com|changes name|Ana Martinez|2018-07-01 11:55:30 EDT|
+huali@gmail.com|views recent three trips|2018-07-01 12:00:00 EDT|
+huali@gmail.com|tracks average monthly cost|2018-07-01 12:01:00 EDT|
+huali@gmail.com|check shortest distance|Subway|St George|Bloor-Yonge|2018-07-01 12:03:00 EDT|
+huali@gmail.com|check shortest distance|Bus|Broadview|High Park|2018-07-01 12:05:00 EDT|

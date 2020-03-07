@@ -1,0 +1,5 @@
+SEVERE: Hua Li used a different card 000003 to tap out at Berri-UQAM at 2018-06-30 13:05:00 EDT
+WARNING: Card 000003 missed exit information due to illegal exit at stop McGill at 2018-06-30 14:20:00 EDT
+SEVERE: Hua Li used a different card 000003 to tap out at Place-d'Armes at 2018-06-30 18:00:00 EDT
+WARNING: Card 000003 missed enter information due to illegal entry at station Berri-UQAM at 2018-07-01 11:45:00 EDT
+WARNING: Card 000003 missed exit information due to power outage at stop Place-d'Armes at 2018-07-01 11:50:00 EDT
